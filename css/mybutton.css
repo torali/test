@@ -1,0 +1,206 @@
+.myButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0);
+	background-color:#ffffff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton1 {
+	background-color:#ffffff;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #f3f7cd;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:2px 11px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton1:hover {
+	background-color:#f6f7b9;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton2 {
+	-moz-box-shadow:inset 0px 25px 0px -24px #e67a73;
+	-webkit-box-shadow:inset 0px 25px 0px -24px #e67a73;
+	box-shadow:inset 0px 25px 0px -24px #e67a73;
+	background-color:#e3cf5d;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Noto Sans TC', sans-serif;
+	font-size:28px;
+	padding:32px 76px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+	font-weight: 700;
+}
+.myButton2:hover {
+	background-color:#eb675e;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton3 {
+	-moz-box-shadow:inset 0px 25px 0px -24px #e67a73;
+	-webkit-box-shadow:inset 0px 25px 0px -24px #e67a73;
+	box-shadow:inset 0px 25px 0px -24px #e67a73;
+	background-color:#5de3b6;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Noto Sans TC', sans-serif;
+	font-weight: 700;
+	font-size:28px;
+	padding:32px 76px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+.myButton3:hover {
+	background-color:#eb675e;
+}
+.myButton3:active {
+	position:relative;
+	top:1px;
+}
+
+.myButtonold {
+	background-color:#c7b145;
+	-moz-border-radius:25px;
+	-webkit-border-radius:25px;
+	border-radius:25px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:1px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButtonold:hover {
+	background-color:#59ff00;
+}
+.myButtonold:active {
+	position:relative;
+	top:1px;
+}
+
+.myButtontwoused {
+	background-color: purple;
+	-moz-border-radius:25px;
+	-webkit-border-radius:25px;
+	border-radius:25px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:1px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButtontwoused:hover {
+	background-color:#59ff00;
+}
+.myButtontwoused:active {
+	position:relative;
+	top:1px;
+}
+
+.myButtonbuy {
+	-moz-box-shadow: 0px 10px 14px -7px #3e7327;
+	-webkit-box-shadow: 0px 10px 14px -7px #3e7327;
+	box-shadow: 0px 10px 14px -7px #3e7327;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #59b3a1), color-stop(1, #45b5a6));
+	background:-moz-linear-gradient(top, #59b3a1 5%, #45b5a6 100%);
+	background:-webkit-linear-gradient(top, #59b3a1 5%, #45b5a6 100%);
+	background:-o-linear-gradient(top, #59b3a1 5%, #45b5a6 100%);
+	background:-ms-linear-gradient(top, #59b3a1 5%, #45b5a6 100%);
+	background:linear-gradient(to bottom, #59b3a1 5%, #45b5a6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#59b3a1', endColorstr='#45b5a6',GradientType=0);
+	background-color:#59b3a1;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 34px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #5b8a3c;
+}
+.myButtonbuy:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #45b5a6), color-stop(1, #59b3a1));
+	background:-moz-linear-gradient(top, #45b5a6 5%, #59b3a1 100%);
+	background:-webkit-linear-gradient(top, #45b5a6 5%, #59b3a1 100%);
+	background:-o-linear-gradient(top, #45b5a6 5%, #59b3a1 100%);
+	background:-ms-linear-gradient(top, #45b5a6 5%, #59b3a1 100%);
+	background:linear-gradient(to bottom, #45b5a6 5%, #59b3a1 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#45b5a6', endColorstr='#59b3a1',GradientType=0);
+	background-color:#45b5a6;
+}
+.myButtonbuy:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+

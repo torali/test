@@ -1,0 +1,179 @@
+#head{
+	font-size: 20pt;
+    line-height: 34pt;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: 700;
+
+}
+
+#fish{
+
+	float: left;
+}
+
+#navigation{
+	margin-top: 20pt;
+}
+
+#fly{
+	display: flex;
+	background-size: cover;
+	align-items: center;
+	background-image: url('http://i.imgur.com/r1GY2hd.jpg?1');
+    color: #ffffff;
+    height: 600px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+		
+}
+
+#dfg{
+	display: flex;
+	background-size: cover;
+	text-align: center;
+	background-image: url('http://i.imgur.com/j0gx35Y.png');
+    height: 900px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+	font-weight: 700;	
+	font-size: 50pt;
+}
+
+#tyu{
+	display: flex;
+	background-size: cover;
+	text-align: center;
+	background-image: url('http://i.imgur.com/j0gx35Y.png');
+    height: 600px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+	font-weight: 700;	
+	font-size: 10pt;
+}
+
+#uio{
+	display: flex;
+	background-size: cover;
+	text-align: center;
+	background-image: url('http://i.imgur.com/3tLAPwH.png');
+    height: 1000px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+	font-weight: 700;	
+	font-size: 10pt;
+}
+
+#lis{
+	display: flex;
+	background-size: cover;
+	text-align: center;
+	background-image: url('http://i.imgur.com/qHqPLtO.jpg');
+    height: 2000px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+	font-weight: 700;	
+	font-size: 10pt;
+}
+
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+
+}
+
+.jumbotron h3 {
+  line-height: 60pt;
+  font-size: 40px;
+  margin: 0 0 20px;
+  color: #fff;
+  }
+  
+#rely{
+	display: flex;
+	background-size: cover;
+	align-items: center;
+	background-image: url('http://i.imgur.com/xrUsRFI.png');
+    color: #ffffff;
+    height: 700px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+figure{
+	text-align: center;
+}
+
+#era{
+	background-color: mintcream;
+	height: 200px;
+
+}
+
+.foot{
+	margin-bottom: 30pt;
+}
+
+#der{
+	font-size: 12pt;
+}
+
+#tiny{
+	font-size: 6pt;
+}
+
+#search{
+	background-color: powderblue;
+	text-align: center;
+	height: 1000px
+}
+
+#product{
+	background-image: url('http://www.blue-design.url.tw/blog/download/bluedesign-pic54.jpg');
+	text-align: center;
+	height: 1000px;
+}
+
+#bf2{
+	height: 100px;
+	weight: 100px;
+}
+
+table{
+	background-color: white;
+	margin: 20px;
+	
+}
+
+h1{
+	font-weight: 700;
+	font-family: 'Noto Sans TC', sans-serif;
+	
+	font-size: 25px;
+	color: white;
+	width: 99%;
+}
+
+#con{
+	font-size: 17px;
+	font-family: 'Noto Sans TC', sans-serif;
+	color: steelblue;
+}
+
+#she{
+	
+	height: 500px;
+
+	padding: 40px;
+}
+
+#rty{
+
+	height:500px;
+	padding: 5px;
+	font-size: 15px;
+}
+
+
+
+
+
+
+
+
